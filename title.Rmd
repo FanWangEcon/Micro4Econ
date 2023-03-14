@@ -1,0 +1,5 @@
+---
+title: "Notes on Microeconomic Theory"
+author: "Fan Wang"
+date: '`r format(Sys.Date(), "%Y-%m-%d")`'
+---
